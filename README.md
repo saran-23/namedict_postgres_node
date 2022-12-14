@@ -3,8 +3,7 @@
  nodejs: https://nodejs.org/en/download/
  
  <br/>
- TO INSTALL DEPENDENCIES
-```npm i ```
+ TO INSTALL DEPENDENCIES ```npm i ```
 
  TO RUN PROJECT
 ```node index.js```
