@@ -10,8 +10,9 @@
 
  END POINTS 
 
- GET ```/users``` <br>
+GET ```/users``` <br>
 GET```/users/:english_name```<br>
+DELETE ```/users/:english_name```
 POST ```/users/```<br>
 
  {
@@ -20,6 +21,5 @@ POST ```/users/```<br>
     "transliterated_name": "ABC",
     "count": "ABC"
   }
-  <br>
- DELETE ```/users/:english_name```
+  
 
