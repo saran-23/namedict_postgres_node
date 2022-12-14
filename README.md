@@ -14,6 +14,7 @@
  GET```/users/:english_name```
 POST ```/users/```
 
+ {
     "english_name": "ABC",
     "tamil_name": "ABC",
     "transliterated_name": "ABC",
