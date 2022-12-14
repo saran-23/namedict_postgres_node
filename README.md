@@ -12,7 +12,7 @@
 
 GET ```/users``` <br>
 GET```/users/:english_name```<br>
-DELETE ```/users/:english_name```<br
+DELETE ```/users/:english_name```<br/>
 POST ```/users/```
 
  {
