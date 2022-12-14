@@ -1,23 +1,28 @@
 # namedict_postgres_node
 
-# nodejs: https://nodejs.org/en/download/
-# TO INSTALL DEPENDENCIES
-```npm i ```
+ nodejs: https://nodejs.org/en/download/
+ 
+ <br/>
+ TO INSTALL DEPENDENCIES
+npm i
 
-# TO RUN PROJECT
+
+ TO RUN PROJECT
 ```node index.js```
 
 
-# END POINTS 
+ END POINTS 
 
- GET ```/users```
- GET```/users/:english_name```
+GET ```/users``` <br>
+GET```/users/:english_name```<br>
+DELETE ```/users/:english_name```<br/>
 POST ```/users/```
 
+ {
     "english_name": "ABC",
     "tamil_name": "ABC",
     "transliterated_name": "ABC",
     "count": "ABC"
   }
- DELETE ```/users/:english_name```
+  
 
