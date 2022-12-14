@@ -4,7 +4,7 @@
  
  <br/>
  TO INSTALL DEPENDENCIES
-```npm i```
+npm i
 
 
  TO RUN PROJECT
