@@ -4,7 +4,8 @@
  
  <br/>
  TO INSTALL DEPENDENCIES
- ```npm i```
+```npm i```
+
 
  TO RUN PROJECT
 ```node index.js```
