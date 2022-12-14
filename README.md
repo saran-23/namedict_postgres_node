@@ -12,8 +12,8 @@
 
 GET ```/users``` <br>
 GET```/users/:english_name```<br>
-DELETE ```/users/:english_name```
-POST ```/users/```<br>
+DELETE ```/users/:english_name```<br
+POST ```/users/```
 
  {
     "english_name": "ABC",
